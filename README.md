@@ -1,3 +1,3 @@
 # seznamy
 
-https://kubaejj.github.io/seznamy.kubaejj.github.io/fotbal.html
+https://kubaejj.github.io/seznamy.kubaejj.github.io/index.html
